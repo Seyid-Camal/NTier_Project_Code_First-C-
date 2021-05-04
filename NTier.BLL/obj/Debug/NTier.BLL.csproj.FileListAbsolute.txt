@@ -1,0 +1,17 @@
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.BLL\bin\Debug\NTier.BLL.dll.config
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.BLL\bin\Debug\NTier.BLL.dll
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.BLL\bin\Debug\NTier.BLL.pdb
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.BLL\bin\Debug\EntityFramework.dll
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.BLL\bin\Debug\NTier.DAL.dll
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.BLL\bin\Debug\NTier.Model.dll
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.BLL\bin\Debug\NTier.DAL.pdb
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.BLL\bin\Debug\NTier.DAL.dll.config
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.BLL\bin\Debug\NTier.Model.pdb
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.BLL\bin\Debug\NTier.Model.dll.config
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.BLL\bin\Debug\EntityFramework.xml
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.BLL\obj\Debug\NTier.BLL.csprojAssemblyReference.cache
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.BLL\obj\Debug\NTier.BLL.csproj.CopyComplete
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.BLL\obj\Debug\NTier.BLL.dll
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.BLL\obj\Debug\NTier.BLL.pdb

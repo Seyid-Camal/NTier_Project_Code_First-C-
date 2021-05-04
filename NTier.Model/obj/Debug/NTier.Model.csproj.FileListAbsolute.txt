@@ -1,0 +1,10 @@
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.Model\bin\Debug\NTier.Model.dll.config
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.Model\bin\Debug\NTier.Model.dll
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.Model\bin\Debug\NTier.Model.pdb
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.Model\bin\Debug\EntityFramework.dll
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.Model\bin\Debug\EntityFramework.xml
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.Model\obj\Debug\NTier.Model.csproj.CopyComplete
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.Model\obj\Debug\NTier.Model.dll
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.Model\obj\Debug\NTier.Model.pdb

@@ -1,0 +1,16 @@
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.DAL\bin\Debug\NTier.DAL.dll.config
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.DAL\bin\Debug\NTier.DAL.dll
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.DAL\bin\Debug\NTier.DAL.pdb
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.DAL\bin\Debug\EntityFramework.dll
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.DAL\bin\Debug\NTier.Model.dll
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.DAL\bin\Debug\NTier.Model.pdb
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.DAL\bin\Debug\NTier.Model.dll.config
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.DAL\bin\Debug\EntityFramework.xml
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.DAL\obj\Debug\NTier.DAL.csprojAssemblyReference.cache
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.DAL\obj\Debug\NTier.DAL.csproj.CopyComplete
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.DAL\obj\Debug\NTier.DAL.dll
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.DAL\obj\Debug\NTier.DAL.pdb
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.DAL\obj\Debug\NTier.DAL.Migrations.Init.resources
+C:\Users\seyid\Desktop\C# Ödevler\NTier_Code_First\NTier.DAL\obj\Debug\NTier.DAL.csproj.GenerateResource.cache
